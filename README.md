@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/bhPark98/bhPark98/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20To-nl-Beongho's%20Github&fontSize=90" />
 </div>
 
 <!--내용 부분-->
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SpringSecurity--components-DB7093?style=for-the-badge&logo=SpringSecurity&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/SpringSecurity-DB7093?style=for-the-badge&logo=SpringSecurity&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/Redis-1daabb.svg?style=for-the-badge&logo=Redis&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Docker-1572B6.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
 </div>
@@ -30,7 +30,7 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/JSP-007ACC.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Mybatis%20Query-FF4154?style=for-the-badge&logo=Mybatis%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Mybatis-FF4154?style=for-the-badge&logo=Mybatis%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-3578E5?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp
 </div>
 
@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Jira%20photoshop-08253c.svg?style=for-the-badge&logo=Jira%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Jira-08253c.svg?style=for-the-badge&logo=Jira%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
