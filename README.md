@@ -14,22 +14,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/SpringSecurity-DB7093?style=for-the-badge&logo=SpringSecurity&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/Redis-1daabb.svg?style=for-the-badge&logo=Redis&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Docker-1572B6.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Rabbitmq-150458.svg?style=for-the-badge&logo=Rabbitmq&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Thymeleaf-4d77cf.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MySQL-1572B6.svg?style=for-the-badge&logo=MySQL&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JSP-007ACC.svg?style=for-the-badge&logo=JSP&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-007ACC.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Mybatis-FF4154?style=for-the-badge&logo=Mybatis%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-3578E5?style=for-the-badge&logo=Javascript&logoColor=white" />&nbsp
 </div>
